@@ -11,7 +11,7 @@ todos_os_filmes = []
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMWJiOWI0NjQxMzcwYTI2MTYzNTQwZmMzNjhiOWI3OCIsIm5iZiI6MTc5MDI2MjgxNy43Nywic3ViIjoiNmFiNTNlMjFlZjg5Y2QzMDkwZmEwZjI3Iiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.QN3c7vnOEIYNT7VACBH7oCEj4IGXV3z980a_K065dBM" 
+    "Authorization": "Bearer SEU_TOKEN_AQUI" 
 }
 
 for pagina in range(1,21):
