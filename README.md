@@ -1,0 +1,1 @@
+pipeline ETL que extrai dados de filmes via API do TMDB, aplica transformações em SQL usando DuckDB e divide os dados em camadas bronze, prata e ouro
